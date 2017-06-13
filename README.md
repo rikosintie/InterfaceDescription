@@ -10,7 +10,7 @@ manually is tedious, time consuming and error prone. To work around this I wrote
 script to create the interface descriptions. Here are the instructions to use it.
 
 # Quick Start 
-1. Download the script
+1. Download the script by clicking the green "Clone or download" button.
 
 2. Log onto the switch and run
 
