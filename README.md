@@ -10,10 +10,12 @@ But there are times when you are in the field and need to create a lot of descri
 manually is tedious, time consuming and error prone. To work around this I wrote a simple Python 
 script to create the interface descriptions. Here are the instructions to use it.
 
-#Quick Start 
+# Quick Start 
 Download the script
+
 Log onto the switch and run
-'sh run cdp ne det | i Dev|Interface
+
+'sh run cdp ne det | i Dev|Interface'
 This will display the device name and interface for each neighbor
 Copy the output and save it in a text file called interface.txt in the same folder as the script
 Run the script. This will output the code needed on the screen
