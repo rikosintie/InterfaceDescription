@@ -16,12 +16,10 @@ script to create the interface descriptions. Here are the instructions to use it
 
 'sh run cdp ne det | i Dev|Interface'
 
-This will display the device name and interface for each neighbor
-
 3. Copy the output and save it in a text file called interface.txt in the same folder as the script
 
 4. Run the script. This will output the code needed on the screen
 
-5.Copy the code and paste it into the switch
+5. Copy the code and paste it into the switch
 
 For more detailed instructions see my [blog post](https://mwhubbard.blogspot.com)
