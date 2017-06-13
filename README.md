@@ -24,4 +24,4 @@ sh run cdp ne det | i Dev|Interface
 
 5. Copy the code and paste it into the switch
 
-For more detailed instructions see my [blog post](https://mwhubbard.blogspot.com)
+For more detailed instructions see my [blog post](https://mwhubbard.blogspot.com/2017/06/create-interface-descriptions-from-cdp.html)
