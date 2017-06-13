@@ -14,7 +14,9 @@ script to create the interface descriptions. Here are the instructions to use it
 
 2. Log onto the switch and run
 
-'sh run cdp ne det | i Dev|Interface'
+'''
+sh run cdp ne det | i Dev|Interface
+'''
 
 3. Copy the output and save it in a text file called interface.txt in the same folder as the script
 
