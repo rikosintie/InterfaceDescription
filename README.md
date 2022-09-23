@@ -22,8 +22,44 @@ sh run cdp ne det | i Dev|Interface
 
 4. Run the script. This will output the code needed on the screen
 
-```
-python3 interface.py
+
+python3 interface.py  
+```dart
+Interface GigabitEthernet 3/0/9
+des < MHMS-IDFN-N107-N211 >
+exit
+
+Interface GigabitEthernet 3/0/8
+des < MHMS-IDFN-N107-N210 >
+exit
+
+Interface GigabitEthernet 3/0/1
+des < MHMS-IDFN-N107-N107 >
+exit
+
+Interface GigabitEthernet 3/0/5
+des < MHMS-IDFN-N107-N207 >
+exit
+
+Interface GigabitEthernet 3/0/7
+des < MHMS-IDFN-N107-N209 >
+exit
+
+Interface GigabitEthernet 3/0/3
+des < MHMS-IDFN-N107-N109 >
+exit
+
+Interface GigabitEthernet 3/0/2
+des < MHMS-IDFN-N107-N108 >
+exit
+
+Interface TenGigabitEthernet 3/0/1
+des < MHMS-CORE >
+exit
+
+Interface TenGigabitEtherne t1/0/1
+des < MHMS-CORE >
+exit
 ```
 
 5. Copy the code and paste it into the switch
